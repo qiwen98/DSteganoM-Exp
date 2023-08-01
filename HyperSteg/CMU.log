@@ -1,0 +1,601 @@
+root - INFO - Epoch 1 -> LR : 0.0001
+root - INFO - Epoch 1 -> LR reveal : 0.0001
+root - INFO - Epoch [1/100], Average_train_loss: 0.0276
+root - INFO - Epoch [1/100], Average_reveal_loss: 0.0107
+root - INFO - Epoch [1/100], Average_test_loss: 0.3280
+root - INFO - 1,100, 0.02764999768190572, 0.010749309133920495, 0.3280122445515937
+root - INFO - Epoch 2 -> LR : 0.0001
+root - INFO - Epoch 2 -> LR reveal : 0.0001
+root - INFO - Epoch [2/100], Average_train_loss: 0.0179
+root - INFO - Epoch [2/100], Average_reveal_loss: 0.0055
+root - INFO - Epoch [2/100], Average_test_loss: 0.7830
+root - INFO - 2,100, 0.017915420624953896, 0.005535196531412151, 0.7830313684428549
+root - INFO - Epoch 3 -> LR : 0.0001
+root - INFO - Epoch 3 -> LR reveal : 0.0001
+root - INFO - Epoch [3/100], Average_train_loss: 0.0149
+root - INFO - Epoch [3/100], Average_reveal_loss: 0.0041
+root - INFO - Epoch [3/100], Average_test_loss: 0.7848
+root - INFO - 3,100, 0.014885915959577846, 0.004142741814417684, 0.7847951756722016
+root - INFO - Epoch 4 -> LR : 0.0001
+root - INFO - Epoch 4 -> LR reveal : 0.0001
+root - INFO - Epoch [4/100], Average_train_loss: 0.0129
+root - INFO - Epoch [4/100], Average_reveal_loss: 0.0042
+root - INFO - Epoch [4/100], Average_test_loss: 0.8259
+root - INFO - 4,100, 0.012919734788390444, 0.004249692140349552, 0.8259085622757517
+root - INFO - Epoch 5 -> LR : 0.0001
+root - INFO - Epoch 5 -> LR reveal : 0.0001
+root - INFO - Epoch [5/100], Average_train_loss: 0.0086
+root - INFO - Epoch [5/100], Average_reveal_loss: 0.0035
+root - INFO - Epoch [5/100], Average_test_loss: 0.7575
+root - INFO - 5,100, 0.008568123171521027, 0.003472186067285846, 0.7574949122536245
+root - INFO - Epoch 6 -> LR : 0.0001
+root - INFO - Epoch 6 -> LR reveal : 0.0001
+root - INFO - Epoch [6/100], Average_train_loss: 0.0063
+root - INFO - Epoch [6/100], Average_reveal_loss: 0.0026
+root - INFO - Epoch [6/100], Average_test_loss: 0.7943
+root - INFO - 6,100, 0.006278125192139945, 0.0026178378489060813, 0.7942976594283319
+root - INFO - Epoch 7 -> LR : 0.0001
+root - INFO - Epoch 7 -> LR reveal : 0.0001
+root - INFO - Epoch [7/100], Average_train_loss: 0.0054
+root - INFO - Epoch [7/100], Average_reveal_loss: 0.0024
+root - INFO - Epoch [7/100], Average_test_loss: 1.5988
+root - INFO - 7,100, 0.005393573411097548, 0.0024094798390844677, 1.5988254128950428
+root - INFO - Epoch 8 -> LR : 0.0001
+root - INFO - Epoch 8 -> LR reveal : 0.0001
+root - INFO - Epoch [8/100], Average_train_loss: 0.0048
+root - INFO - Epoch [8/100], Average_reveal_loss: 0.0022
+root - INFO - Epoch [8/100], Average_test_loss: 0.6517
+root - INFO - 8,100, 0.004810708622782208, 0.002212973473512608, 0.6517357295720365
+root - INFO - Epoch 9 -> LR : 0.0001
+root - INFO - Epoch 9 -> LR reveal : 0.0001
+root - INFO - Epoch [9/100], Average_train_loss: 0.0051
+root - INFO - Epoch [9/100], Average_reveal_loss: 0.0023
+root - INFO - Epoch [9/100], Average_test_loss: 0.5520
+root - INFO - 9,100, 0.0050766200776232165, 0.0023284879044576487, 0.5519628816562173
+root - INFO - Epoch 10 -> LR : 0.0001
+root - INFO - Epoch 10 -> LR reveal : 0.0001
+root - INFO - Epoch [10/100], Average_train_loss: 0.0051
+root - INFO - Epoch [10/100], Average_reveal_loss: 0.0024
+root - INFO - Epoch [10/100], Average_test_loss: 0.5720
+root - INFO - 10,100, 0.005128952755552271, 0.002372437081446507, 0.5719553650361705
+root - INFO - Epoch 11 -> LR : 0.0001
+root - INFO - Epoch 11 -> LR reveal : 0.0001
+root - INFO - Epoch [11/100], Average_train_loss: 0.0057
+root - INFO - Epoch [11/100], Average_reveal_loss: 0.0030
+root - INFO - Epoch [11/100], Average_test_loss: 0.4698
+root - INFO - 11,100, 0.0057196075767379905, 0.0029802329695287526, 0.46980243656023635
+root - INFO - Epoch 12 -> LR : 0.0001
+root - INFO - Epoch 12 -> LR reveal : 0.0001
+root - INFO - Epoch [12/100], Average_train_loss: 0.0048
+root - INFO - Epoch [12/100], Average_reveal_loss: 0.0023
+root - INFO - Epoch [12/100], Average_test_loss: 0.3559
+root - INFO - 12,100, 0.004756326131198717, 0.0023230796522314095, 0.35591609752615083
+root - INFO - Epoch 13 -> LR : 0.0001
+root - INFO - Epoch 13 -> LR reveal : 0.0001
+root - INFO - Epoch [13/100], Average_train_loss: 0.0049
+root - INFO - Epoch [13/100], Average_reveal_loss: 0.0023
+root - INFO - Epoch [13/100], Average_test_loss: 0.4297
+root - INFO - 13,100, 0.004880970618535724, 0.0023414822747999213, 0.42972825584611346
+root - INFO - Epoch 14 -> LR : 0.0001
+root - INFO - Epoch 14 -> LR reveal : 0.0001
+root - INFO - Epoch [14/100], Average_train_loss: 0.0049
+root - INFO - Epoch [14/100], Average_reveal_loss: 0.0023
+root - INFO - Epoch [14/100], Average_test_loss: 0.4881
+root - INFO - 14,100, 0.00487652354261271, 0.002341788422611147, 0.4880637535874132
+root - INFO - Epoch 15 -> LR : 0.0001
+root - INFO - Epoch 15 -> LR reveal : 5e-05
+root - INFO - Epoch [15/100], Average_train_loss: 0.0042
+root - INFO - Epoch [15/100], Average_reveal_loss: 0.0020
+root - INFO - Epoch [15/100], Average_test_loss: 0.3417
+root - INFO - 15,100, 0.0041954156994546314, 0.001979748561627829, 0.3417366573011688
+root - INFO - Epoch 16 -> LR : 0.0001
+root - INFO - Epoch 16 -> LR reveal : 5e-05
+root - INFO - Epoch [16/100], Average_train_loss: 0.0033
+root - INFO - Epoch [16/100], Average_reveal_loss: 0.0016
+root - INFO - Epoch [16/100], Average_test_loss: 0.2997
+root - INFO - 16,100, 0.003330486066862131, 0.0015805326512908441, 0.29970305611949943
+root - INFO - Epoch 17 -> LR : 0.0001
+root - INFO - Epoch 17 -> LR reveal : 5e-05
+root - INFO - Epoch [17/100], Average_train_loss: 0.0031
+root - INFO - Epoch [17/100], Average_reveal_loss: 0.0015
+root - INFO - Epoch [17/100], Average_test_loss: 0.5595
+root - INFO - 17,100, 0.003129133908584228, 0.001477360767381944, 0.5594901178831829
+root - INFO - Epoch 18 -> LR : 0.0001
+root - INFO - Epoch 18 -> LR reveal : 5e-05
+root - INFO - Epoch [18/100], Average_train_loss: 0.0029
+root - INFO - Epoch [18/100], Average_reveal_loss: 0.0014
+root - INFO - Epoch [18/100], Average_test_loss: 0.3787
+root - INFO - 18,100, 0.002867105538873306, 0.0014261448970975597, 0.3787074494736357
+root - INFO - Epoch 19 -> LR : 0.0001
+root - INFO - Epoch 19 -> LR reveal : 5e-05
+root - INFO - Epoch [19/100], Average_train_loss: 0.0025
+root - INFO - Epoch [19/100], Average_reveal_loss: 0.0012
+root - INFO - Epoch [19/100], Average_test_loss: 0.4918
+root - INFO - 19,100, 0.0025037587925908155, 0.0011682440718805479, 0.4917617877116378
+root - INFO - Epoch 20 -> LR : 0.0001
+root - INFO - Epoch 20 -> LR reveal : 5e-05
+root - INFO - Epoch [20/100], Average_train_loss: 0.0024
+root - INFO - Epoch [20/100], Average_reveal_loss: 0.0012
+root - INFO - Epoch [20/100], Average_test_loss: 0.7505
+root - INFO - 20,100, 0.002427582554810215, 0.0011599624669305858, 0.7505446304201455
+root - INFO - Epoch 21 -> LR : 0.0001
+root - INFO - Epoch 21 -> LR reveal : 5e-05
+root - INFO - Epoch [21/100], Average_train_loss: 0.0022
+root - INFO - Epoch [21/100], Average_reveal_loss: 0.0011
+root - INFO - Epoch [21/100], Average_test_loss: 0.5170
+root - INFO - 21,100, 0.002234263704778404, 0.0010615677105385618, 0.5169619056566848
+root - INFO - Epoch 22 -> LR : 0.0001
+root - INFO - Epoch 22 -> LR reveal : 5e-05
+root - INFO - Epoch [22/100], Average_train_loss: 0.0022
+root - INFO - Epoch [22/100], Average_reveal_loss: 0.0010
+root - INFO - Epoch [22/100], Average_test_loss: 0.4216
+root - INFO - 22,100, 0.002155691632019032, 0.0010368351487673151, 0.4215833685160931
+root - INFO - Epoch 23 -> LR : 0.0001
+root - INFO - Epoch 23 -> LR reveal : 5e-05
+root - INFO - Epoch [23/100], Average_train_loss: 0.0020
+root - INFO - Epoch [23/100], Average_reveal_loss: 0.0009
+root - INFO - Epoch [23/100], Average_test_loss: 0.7422
+root - INFO - 23,100, 0.002023850268059228, 0.0009435724231045005, 0.7421669750937616
+root - INFO - Epoch 24 -> LR : 0.0001
+root - INFO - Epoch 24 -> LR reveal : 5e-05
+root - INFO - Epoch [24/100], Average_train_loss: 0.0019
+root - INFO - Epoch [24/100], Average_reveal_loss: 0.0009
+root - INFO - Epoch [24/100], Average_test_loss: 0.3919
+root - INFO - 24,100, 0.0018911356158913923, 0.0008893113718247902, 0.39193170841451713
+root - INFO - Epoch 25 -> LR : 0.0001
+root - INFO - Epoch 25 -> LR reveal : 5e-05
+root - INFO - Epoch [25/100], Average_train_loss: 0.0018
+root - INFO - Epoch [25/100], Average_reveal_loss: 0.0009
+root - INFO - Epoch [25/100], Average_test_loss: 0.4422
+root - INFO - 25,100, 0.0018379413124184002, 0.0008563724906549475, 0.44221912737916275
+root - INFO - Epoch 26 -> LR : 0.0001
+root - INFO - Epoch 26 -> LR reveal : 5e-05
+root - INFO - Epoch [26/100], Average_train_loss: 0.0018
+root - INFO - Epoch [26/100], Average_reveal_loss: 0.0009
+root - INFO - Epoch [26/100], Average_test_loss: 0.3509
+root - INFO - 26,100, 0.0018473444868425798, 0.0009046893807902487, 0.3508570897953673
+root - INFO - Epoch 27 -> LR : 0.0001
+root - INFO - Epoch 27 -> LR reveal : 5e-05
+root - INFO - Epoch [27/100], Average_train_loss: 0.0017
+root - INFO - Epoch [27/100], Average_reveal_loss: 0.0008
+root - INFO - Epoch [27/100], Average_test_loss: 0.6167
+root - INFO - 27,100, 0.001704395115286942, 0.0008256119584352153, 0.6166855891025503
+root - INFO - Epoch 28 -> LR : 0.0001
+root - INFO - Epoch 28 -> LR reveal : 5e-05
+root - INFO - Epoch [28/100], Average_train_loss: 0.0016
+root - INFO - Epoch [28/100], Average_reveal_loss: 0.0007
+root - INFO - Epoch [28/100], Average_test_loss: 0.5795
+root - INFO - 28,100, 0.0015712117896486155, 0.0007277572300075047, 0.5794534102784401
+root - INFO - Epoch 29 -> LR : 0.0001
+root - INFO - Epoch 29 -> LR reveal : 5e-05
+root - INFO - Epoch [29/100], Average_train_loss: 0.0016
+root - INFO - Epoch [29/100], Average_reveal_loss: 0.0008
+root - INFO - Epoch [29/100], Average_test_loss: 0.5704
+root - INFO - 29,100, 0.0016364547825777783, 0.0007776641402217692, 0.5703829236679676
+root - INFO - Epoch 30 -> LR : 0.0001
+root - INFO - Epoch 30 -> LR reveal : 5e-05
+root - INFO - Epoch [30/100], Average_train_loss: 0.0015
+root - INFO - Epoch [30/100], Average_reveal_loss: 0.0007
+root - INFO - Epoch [30/100], Average_test_loss: 0.5317
+root - INFO - 30,100, 0.0015217951394531511, 0.000722385491747485, 0.5316547401912549
+root - INFO - Epoch 31 -> LR : 0.0001
+root - INFO - Epoch 31 -> LR reveal : 5e-05
+root - INFO - Epoch [31/100], Average_train_loss: 0.0014
+root - INFO - Epoch [31/100], Average_reveal_loss: 0.0007
+root - INFO - Epoch [31/100], Average_test_loss: 0.5771
+root - INFO - 31,100, 0.0014181927133746365, 0.0006634936705149417, 0.5770855004562757
+root - INFO - Epoch 32 -> LR : 0.0001
+root - INFO - Epoch 32 -> LR reveal : 5e-05
+root - INFO - Epoch [32/100], Average_train_loss: 0.0014
+root - INFO - Epoch [32/100], Average_reveal_loss: 0.0007
+root - INFO - Epoch [32/100], Average_test_loss: 0.6430
+root - INFO - 32,100, 0.0014015351385118582, 0.0006690175941121593, 0.6429643375087158
+root - INFO - Epoch 33 -> LR : 0.0001
+root - INFO - Epoch 33 -> LR reveal : 5e-05
+root - INFO - Epoch [33/100], Average_train_loss: 0.0013
+root - INFO - Epoch [33/100], Average_reveal_loss: 0.0006
+root - INFO - Epoch [33/100], Average_test_loss: 0.7402
+root - INFO - 33,100, 0.0013158890677795684, 0.0006073778624578035, 0.7402214292456343
+root - INFO - Epoch 34 -> LR : 0.0001
+root - INFO - Epoch 34 -> LR reveal : 5e-05
+root - INFO - Epoch [34/100], Average_train_loss: 0.0013
+root - INFO - Epoch [34/100], Average_reveal_loss: 0.0006
+root - INFO - Epoch [34/100], Average_test_loss: 0.3516
+root - INFO - 34,100, 0.0012968784757148293, 0.0005991814545901118, 0.35160443116545054
+root - INFO - Epoch 35 -> LR : 0.0001
+root - INFO - Epoch 35 -> LR reveal : 5e-05
+root - INFO - Epoch [35/100], Average_train_loss: 0.0013
+root - INFO - Epoch [35/100], Average_reveal_loss: 0.0006
+root - INFO - Epoch [35/100], Average_test_loss: 0.5999
+root - INFO - 35,100, 0.0012837591594016767, 0.0006045805786055533, 0.599891408575767
+root - INFO - Epoch 36 -> LR : 0.0001
+root - INFO - Epoch 36 -> LR reveal : 5e-05
+root - INFO - Epoch [36/100], Average_train_loss: 0.0013
+root - INFO - Epoch [36/100], Average_reveal_loss: 0.0006
+root - INFO - Epoch [36/100], Average_test_loss: 0.5861
+root - INFO - 36,100, 0.0012894197060908798, 0.0006104427703615764, 0.5861395762852973
+root - INFO - Epoch 37 -> LR : 0.0001
+root - INFO - Epoch 37 -> LR reveal : 5e-05
+root - INFO - Epoch [37/100], Average_train_loss: 0.0012
+root - INFO - Epoch [37/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [37/100], Average_test_loss: 0.4542
+root - INFO - 37,100, 0.0011564290545167117, 0.0005265551778986423, 0.45422539130555395
+root - INFO - Epoch 38 -> LR : 0.0001
+root - INFO - Epoch 38 -> LR reveal : 5e-05
+root - INFO - Epoch [38/100], Average_train_loss: 0.0012
+root - INFO - Epoch [38/100], Average_reveal_loss: 0.0006
+root - INFO - Epoch [38/100], Average_test_loss: 0.4915
+root - INFO - 38,100, 0.0011809578351423388, 0.0005663158397905847, 0.4915347492507615
+root - INFO - Epoch 39 -> LR : 0.0001
+root - INFO - Epoch 39 -> LR reveal : 5e-05
+root - INFO - Epoch [39/100], Average_train_loss: 0.0011
+root - INFO - Epoch [39/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [39/100], Average_test_loss: 0.3941
+root - INFO - 39,100, 0.0011497340498507307, 0.0005281422225854603, 0.39405267471106264
+root - INFO - Epoch 40 -> LR : 0.0001
+root - INFO - Epoch 40 -> LR reveal : 5e-05
+root - INFO - Epoch [40/100], Average_train_loss: 0.0011
+root - INFO - Epoch [40/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [40/100], Average_test_loss: 0.5667
+root - INFO - 40,100, 0.0011065199824098154, 0.0005074391022429589, 0.56670047959108
+root - INFO - Epoch 41 -> LR : 0.0001
+root - INFO - Epoch 41 -> LR reveal : 5e-05
+root - INFO - Epoch [41/100], Average_train_loss: 0.0011
+root - INFO - Epoch [41/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [41/100], Average_test_loss: 0.7166
+root - INFO - 41,100, 0.0010639174112799558, 0.0004786902006621265, 0.7165936162958595
+root - INFO - Epoch 42 -> LR : 0.0001
+root - INFO - Epoch 42 -> LR reveal : 5e-05
+root - INFO - Epoch [42/100], Average_train_loss: 0.0011
+root - INFO - Epoch [42/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [42/100], Average_test_loss: 0.9325
+root - INFO - 42,100, 0.001063825315941358, 0.0005041490478580944, 0.9324612492666194
+root - INFO - Epoch 43 -> LR : 0.0001
+root - INFO - Epoch 43 -> LR reveal : 5e-05
+root - INFO - Epoch [43/100], Average_train_loss: 0.0010
+root - INFO - Epoch [43/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [43/100], Average_test_loss: 0.3876
+root - INFO - 43,100, 0.0010060704229386908, 0.0004608882806322704, 0.3875592644302009
+root - INFO - Epoch 44 -> LR : 0.0001
+root - INFO - Epoch 44 -> LR reveal : 5e-05
+root - INFO - Epoch [44/100], Average_train_loss: 0.0010
+root - INFO - Epoch [44/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [44/100], Average_test_loss: 0.4611
+root - INFO - 44,100, 0.0010421031711461103, 0.0004943479973166097, 0.4611479017434944
+root - INFO - Epoch 45 -> LR : 0.0001
+root - INFO - Epoch 45 -> LR reveal : 5e-05
+root - INFO - Epoch [45/100], Average_train_loss: 0.0010
+root - INFO - Epoch [45/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [45/100], Average_test_loss: 0.3233
+root - INFO - 45,100, 0.0009878721910986908, 0.0004563683007211733, 0.3233040228720111
+root - INFO - Epoch 46 -> LR : 0.0001
+root - INFO - Epoch 46 -> LR reveal : 5e-05
+root - INFO - Epoch [46/100], Average_train_loss: 0.0010
+root - INFO - Epoch [46/100], Average_reveal_loss: 0.0005
+root - INFO - Epoch [46/100], Average_test_loss: 0.4269
+root - INFO - 46,100, 0.0010163365513068603, 0.0004720674948618145, 0.4269186977628638
+root - INFO - Epoch 47 -> LR : 0.0001
+root - INFO - Epoch 47 -> LR reveal : 5e-05
+root - INFO - Epoch [47/100], Average_train_loss: 0.0009
+root - INFO - Epoch [47/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [47/100], Average_test_loss: 0.5508
+root - INFO - 47,100, 0.0009324801662802676, 0.0004164594365094039, 0.5507760015145646
+root - INFO - Epoch 48 -> LR : 0.0001
+root - INFO - Epoch 48 -> LR reveal : 5e-05
+root - INFO - Epoch [48/100], Average_train_loss: 0.0010
+root - INFO - Epoch [48/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [48/100], Average_test_loss: 0.4311
+root - INFO - 48,100, 0.0009550500506441534, 0.0004388910302979006, 0.43105437696292137
+root - INFO - Epoch 49 -> LR : 0.0001
+root - INFO - Epoch 49 -> LR reveal : 5e-05
+root - INFO - Epoch [49/100], Average_train_loss: 0.0009
+root - INFO - Epoch [49/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [49/100], Average_test_loss: 0.8402
+root - INFO - 49,100, 0.0009417788187894748, 0.00042896955565874636, 0.8401585680027907
+root - INFO - Epoch 50 -> LR : 0.0001
+root - INFO - Epoch 50 -> LR reveal : 5e-05
+root - INFO - Epoch [50/100], Average_train_loss: 0.0009
+root - INFO - Epoch [50/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [50/100], Average_test_loss: 0.4341
+root - INFO - 50,100, 0.0009057146880798467, 0.000417367924534989, 0.43412323381888307
+root - INFO - Epoch 51 -> LR : 0.0001
+root - INFO - Epoch 51 -> LR reveal : 5e-05
+root - INFO - Epoch [51/100], Average_train_loss: 0.0009
+root - INFO - Epoch [51/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [51/100], Average_test_loss: 0.6314
+root - INFO - 51,100, 0.0009066467280006138, 0.0004198475982854649, 0.6313920901083822
+root - INFO - Epoch 52 -> LR : 0.0001
+root - INFO - Epoch 52 -> LR reveal : 5e-05
+root - INFO - Epoch [52/100], Average_train_loss: 0.0009
+root - INFO - Epoch [52/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [52/100], Average_test_loss: 0.3708
+root - INFO - 52,100, 0.0008966569299050405, 0.00041481841724263455, 0.370803157384483
+root - INFO - Epoch 53 -> LR : 0.0001
+root - INFO - Epoch 53 -> LR reveal : 5e-05
+root - INFO - Epoch [53/100], Average_train_loss: 0.0009
+root - INFO - Epoch [53/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [53/100], Average_test_loss: 0.4082
+root - INFO - 53,100, 0.0009083601518005193, 0.0004310986756061776, 0.4082031235957021
+root - INFO - Epoch 54 -> LR : 0.0001
+root - INFO - Epoch 54 -> LR reveal : 5e-05
+root - INFO - Epoch [54/100], Average_train_loss: 0.0008
+root - INFO - Epoch [54/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [54/100], Average_test_loss: 0.5337
+root - INFO - 54,100, 0.0008439871436364584, 0.00036915964033339507, 0.5336699382796961
+root - INFO - Epoch 55 -> LR : 0.0001
+root - INFO - Epoch 55 -> LR reveal : 5e-05
+root - INFO - Epoch [55/100], Average_train_loss: 0.0009
+root - INFO - Epoch [55/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [55/100], Average_test_loss: 0.2622
+root - INFO - 55,100, 0.0008919398752724469, 0.0004185951989474352, 0.2621552766305614
+root - INFO - Epoch 56 -> LR : 0.0001
+root - INFO - Epoch 56 -> LR reveal : 5e-05
+root - INFO - Epoch [56/100], Average_train_loss: 0.0008
+root - INFO - Epoch [56/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [56/100], Average_test_loss: 0.5511
+root - INFO - 56,100, 0.0008398000567546621, 0.0003829753855667229, 0.5511111735673475
+root - INFO - Epoch 57 -> LR : 0.0001
+root - INFO - Epoch 57 -> LR reveal : 5e-05
+root - INFO - Epoch [57/100], Average_train_loss: 0.0008
+root - INFO - Epoch [57/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [57/100], Average_test_loss: 0.3297
+root - INFO - 57,100, 0.0008388441599495506, 0.0003939993345857542, 0.3296983137492734
+root - INFO - Epoch 58 -> LR : 0.0001
+root - INFO - Epoch 58 -> LR reveal : 5e-05
+root - INFO - Epoch [58/100], Average_train_loss: 0.0008
+root - INFO - Epoch [58/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [58/100], Average_test_loss: 0.4044
+root - INFO - 58,100, 0.0007936975998745766, 0.0003509845481581262, 0.404444906724061
+root - INFO - Epoch 59 -> LR : 0.0001
+root - INFO - Epoch 59 -> LR reveal : 5e-05
+root - INFO - Epoch [59/100], Average_train_loss: 0.0008
+root - INFO - Epoch [59/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [59/100], Average_test_loss: 0.2758
+root - INFO - 59,100, 0.0008091545625179804, 0.00036256869979811395, 0.2758001019661339
+root - INFO - Epoch 60 -> LR : 0.0001
+root - INFO - Epoch 60 -> LR reveal : 5e-05
+root - INFO - Epoch [60/100], Average_train_loss: 0.0008
+root - INFO - Epoch [60/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [60/100], Average_test_loss: 0.4159
+root - INFO - 60,100, 0.0007950366308448239, 0.0003602927842581741, 0.41585230093975967
+root - INFO - Epoch 61 -> LR : 0.0001
+root - INFO - Epoch 61 -> LR reveal : 5e-05
+root - INFO - Epoch [61/100], Average_train_loss: 0.0008
+root - INFO - Epoch [61/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [61/100], Average_test_loss: 0.2862
+root - INFO - 61,100, 0.000815010702448806, 0.00037120252259426154, 0.2861742202524115
+root - INFO - Epoch 62 -> LR : 0.0001
+root - INFO - Epoch 62 -> LR reveal : 5e-05
+root - INFO - Epoch [62/100], Average_train_loss: 0.0008
+root - INFO - Epoch [62/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [62/100], Average_test_loss: 0.2839
+root - INFO - 62,100, 0.0008234768094236801, 0.0003712976293963552, 0.28393778540389075
+root - INFO - Epoch 63 -> LR : 0.0001
+root - INFO - Epoch 63 -> LR reveal : 5e-05
+root - INFO - Epoch [63/100], Average_train_loss: 0.0008
+root - INFO - Epoch [63/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [63/100], Average_test_loss: 0.2858
+root - INFO - 63,100, 0.00080262054534219, 0.00036797481840514354, 0.2858474913848008
+root - INFO - Epoch 64 -> LR : 0.0001
+root - INFO - Epoch 64 -> LR reveal : 5e-05
+root - INFO - Epoch [64/100], Average_train_loss: 0.0008
+root - INFO - Epoch [64/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [64/100], Average_test_loss: 0.2413
+root - INFO - 64,100, 0.0007630409801609147, 0.00033924725754015683, 0.24132530344406347
+root - INFO - Epoch 65 -> LR : 0.0001
+root - INFO - Epoch 65 -> LR reveal : 5e-05
+root - INFO - Epoch [65/100], Average_train_loss: 0.0008
+root - INFO - Epoch [65/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [65/100], Average_test_loss: 0.5345
+root - INFO - 65,100, 0.0007582321276656686, 0.0003330580126519477, 0.5344783404734746
+root - INFO - Epoch 66 -> LR : 0.0001
+root - INFO - Epoch 66 -> LR reveal : 5e-05
+root - INFO - Epoch [66/100], Average_train_loss: 0.0007
+root - INFO - Epoch [66/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [66/100], Average_test_loss: 0.3071
+root - INFO - 66,100, 0.0007382491063965617, 0.0003118288309965662, 0.30714858280426544
+root - INFO - Epoch 67 -> LR : 0.0001
+root - INFO - Epoch 67 -> LR reveal : 5e-05
+root - INFO - Epoch [67/100], Average_train_loss: 0.0008
+root - INFO - Epoch [67/100], Average_reveal_loss: 0.0004
+root - INFO - Epoch [67/100], Average_test_loss: 0.2597
+root - INFO - 67,100, 0.0007805782032253615, 0.00035780727387685584, 0.25966267615400684
+root - INFO - Epoch 68 -> LR : 0.0001
+root - INFO - Epoch 68 -> LR reveal : 5e-05
+root - INFO - Epoch [68/100], Average_train_loss: 0.0007
+root - INFO - Epoch [68/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [68/100], Average_test_loss: 0.2317
+root - INFO - 68,100, 0.0007446699984543755, 0.00033657676121156725, 0.23167160512265111
+root - INFO - Epoch 69 -> LR : 0.0001
+root - INFO - Epoch 69 -> LR reveal : 5e-05
+root - INFO - Epoch [69/100], Average_train_loss: 0.0007
+root - INFO - Epoch [69/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [69/100], Average_test_loss: 0.2464
+root - INFO - 69,100, 0.0007323901545295603, 0.0003192503091628643, 0.24640696546482166
+root - INFO - Epoch 70 -> LR : 0.0001
+root - INFO - Epoch 70 -> LR reveal : 5e-05
+root - INFO - Epoch [70/100], Average_train_loss: 0.0007
+root - INFO - Epoch [70/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [70/100], Average_test_loss: 0.3350
+root - INFO - 70,100, 0.0007429191854854529, 0.0003326367255241443, 0.3349743484670579
+root - INFO - Epoch 71 -> LR : 0.0001
+root - INFO - Epoch 71 -> LR reveal : 5e-05
+root - INFO - Epoch [71/100], Average_train_loss: 0.0007
+root - INFO - Epoch [71/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [71/100], Average_test_loss: 0.2558
+root - INFO - 71,100, 0.000727101160515778, 0.00032355140451925207, 0.25578389710780836
+root - INFO - Epoch 72 -> LR : 0.0001
+root - INFO - Epoch 72 -> LR reveal : 5e-05
+root - INFO - Epoch [72/100], Average_train_loss: 0.0007
+root - INFO - Epoch [72/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [72/100], Average_test_loss: 0.2185
+root - INFO - 72,100, 0.0007388844178184746, 0.00032506210679022606, 0.2184598195459206
+root - INFO - Epoch 73 -> LR : 0.0001
+root - INFO - Epoch 73 -> LR reveal : 2.5e-05
+root - INFO - Epoch [73/100], Average_train_loss: 0.0007
+root - INFO - Epoch [73/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [73/100], Average_test_loss: 0.2280
+root - INFO - 73,100, 0.0007014031294206886, 0.0002991948275809156, 0.22802313327477242
+root - INFO - Epoch 74 -> LR : 0.0001
+root - INFO - Epoch 74 -> LR reveal : 2.5e-05
+root - INFO - Epoch [74/100], Average_train_loss: 0.0007
+root - INFO - Epoch [74/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [74/100], Average_test_loss: 0.3063
+root - INFO - 74,100, 0.0006710221588076345, 0.0002784038554241504, 0.30631894427132234
+root - INFO - Epoch 75 -> LR : 0.0001
+root - INFO - Epoch 75 -> LR reveal : 2.5e-05
+root - INFO - Epoch [75/100], Average_train_loss: 0.0007
+root - INFO - Epoch [75/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [75/100], Average_test_loss: 0.2224
+root - INFO - 75,100, 0.0006984031581257864, 0.0002972018988973856, 0.22243267781447365
+root - INFO - Epoch 76 -> LR : 0.0001
+root - INFO - Epoch 76 -> LR reveal : 2.5e-05
+root - INFO - Epoch [76/100], Average_train_loss: 0.0007
+root - INFO - Epoch [76/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [76/100], Average_test_loss: 0.5258
+root - INFO - 76,100, 0.0007014432588418814, 0.0002974492784747069, 0.5257631857045658
+root - INFO - Epoch 77 -> LR : 0.0001
+root - INFO - Epoch 77 -> LR reveal : 2.5e-05
+root - INFO - Epoch [77/100], Average_train_loss: 0.0007
+root - INFO - Epoch [77/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [77/100], Average_test_loss: 0.2262
+root - INFO - 77,100, 0.0006868733544726401, 0.0002923291833094086, 0.22623109614661852
+root - INFO - Epoch 78 -> LR : 0.0001
+root - INFO - Epoch 78 -> LR reveal : 2.5e-05
+root - INFO - Epoch [78/100], Average_train_loss: 0.0007
+root - INFO - Epoch [78/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [78/100], Average_test_loss: 0.3512
+root - INFO - 78,100, 0.000696117474850009, 0.0002955636555982536, 0.3511659229925166
+root - INFO - Epoch 79 -> LR : 0.0001
+root - INFO - Epoch 79 -> LR reveal : 2.5e-05
+root - INFO - Epoch [79/100], Average_train_loss: 0.0007
+root - INFO - Epoch [79/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [79/100], Average_test_loss: 0.2714
+root - INFO - 79,100, 0.0006770263417939017, 0.00028351232566543015, 0.27137864728248556
+root - INFO - Epoch 80 -> LR : 0.0001
+root - INFO - Epoch 80 -> LR reveal : 2.5e-05
+root - INFO - Epoch [80/100], Average_train_loss: 0.0007
+root - INFO - Epoch [80/100], Average_reveal_loss: 0.0003
+root - INFO - Epoch [80/100], Average_test_loss: 0.2753
+root - INFO - 80,100, 0.0006716139547042195, 0.0002784806743638119, 0.27534783760290493
+root - INFO - Epoch 81 -> LR : 5e-05
+root - INFO - Epoch 81 -> LR reveal : 1.25e-05
+root - INFO - Epoch [81/100], Average_train_loss: 0.0006
+root - INFO - Epoch [81/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [81/100], Average_test_loss: 0.3298
+root - INFO - 81,100, 0.0005899255428274678, 0.00020685158328690348, 0.32979995215126356
+root - INFO - Epoch 82 -> LR : 5e-05
+root - INFO - Epoch 82 -> LR reveal : 1.25e-05
+root - INFO - Epoch [82/100], Average_train_loss: 0.0006
+root - INFO - Epoch [82/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [82/100], Average_test_loss: 0.6063
+root - INFO - 82,100, 0.0005654245897502456, 0.00020819213391998505, 0.6062645380877699
+root - INFO - Epoch 83 -> LR : 5e-05
+root - INFO - Epoch 83 -> LR reveal : 1.25e-05
+root - INFO - Epoch [83/100], Average_train_loss: 0.0006
+root - INFO - Epoch [83/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [83/100], Average_test_loss: 0.2778
+root - INFO - 83,100, 0.0005856011128739539, 0.00021167861201794712, 0.27780581924927794
+root - INFO - Epoch 84 -> LR : 5e-05
+root - INFO - Epoch 84 -> LR reveal : 1.25e-05
+root - INFO - Epoch [84/100], Average_train_loss: 0.0006
+root - INFO - Epoch [84/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [84/100], Average_test_loss: 0.2497
+root - INFO - 84,100, 0.0005814416120657646, 0.0002109599219416534, 0.24968248633033943
+root - INFO - Epoch 85 -> LR : 5e-05
+root - INFO - Epoch 85 -> LR reveal : 1.25e-05
+root - INFO - Epoch [85/100], Average_train_loss: 0.0006
+root - INFO - Epoch [85/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [85/100], Average_test_loss: 0.2918
+root - INFO - 85,100, 0.0005802213865694205, 0.00020443316241099913, 0.29178533028245596
+root - INFO - Epoch 86 -> LR : 5e-05
+root - INFO - Epoch 86 -> LR reveal : 1.25e-05
+root - INFO - Epoch [86/100], Average_train_loss: 0.0006
+root - INFO - Epoch [86/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [86/100], Average_test_loss: 0.3339
+root - INFO - 86,100, 0.0005690843658869752, 0.0002088059252855601, 0.3339017127976992
+root - INFO - Epoch 87 -> LR : 5e-05
+root - INFO - Epoch 87 -> LR reveal : 1.25e-05
+root - INFO - Epoch [87/100], Average_train_loss: 0.0006
+root - INFO - Epoch [87/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [87/100], Average_test_loss: 0.3115
+root - INFO - 87,100, 0.0005654706276444537, 0.00020646779899122876, 0.3115200655466599
+root - INFO - Epoch 88 -> LR : 5e-05
+root - INFO - Epoch 88 -> LR reveal : 1.25e-05
+root - INFO - Epoch [88/100], Average_train_loss: 0.0006
+root - INFO - Epoch [88/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [88/100], Average_test_loss: 0.4030
+root - INFO - 88,100, 0.0005582378667579336, 0.00020995907895232212, 0.40299480966248435
+root - INFO - Epoch 89 -> LR : 5e-05
+root - INFO - Epoch 89 -> LR reveal : 1.25e-05
+root - INFO - Epoch [89/100], Average_train_loss: 0.0006
+root - INFO - Epoch [89/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [89/100], Average_test_loss: 0.3746
+root - INFO - 89,100, 0.0005507875797933514, 0.0002047625791261532, 0.37458554869859007
+root - INFO - Epoch 90 -> LR : 5e-05
+root - INFO - Epoch 90 -> LR reveal : 1.25e-05
+root - INFO - Epoch [90/100], Average_train_loss: 0.0006
+root - INFO - Epoch [90/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [90/100], Average_test_loss: 0.2528
+root - INFO - 90,100, 0.0005505023077959144, 0.00020098694892073146, 0.2527552135093674
+root - INFO - Epoch 91 -> LR : 5e-05
+root - INFO - Epoch 91 -> LR reveal : 1.25e-05
+root - INFO - Epoch [91/100], Average_train_loss: 0.0006
+root - INFO - Epoch [91/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [91/100], Average_test_loss: 0.3082
+root - INFO - 91,100, 0.0005549214138939177, 0.00020024206899941656, 0.308173962990651
+root - INFO - Epoch 92 -> LR : 5e-05
+root - INFO - Epoch 92 -> LR reveal : 1.25e-05
+root - INFO - Epoch [92/100], Average_train_loss: 0.0006
+root - INFO - Epoch [92/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [92/100], Average_test_loss: 0.2593
+root - INFO - 92,100, 0.0005525229574350701, 0.00020365505118641759, 0.25930336866703335
+root - INFO - Epoch 93 -> LR : 5e-05
+root - INFO - Epoch 93 -> LR reveal : 1.25e-05
+root - INFO - Epoch [93/100], Average_train_loss: 0.0006
+root - INFO - Epoch [93/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [93/100], Average_test_loss: 0.2366
+root - INFO - 93,100, 0.0005554221473531747, 0.00020945696542185033, 0.23660042109601784
+root - INFO - Epoch 94 -> LR : 5e-05
+root - INFO - Epoch 94 -> LR reveal : 1.25e-05
+root - INFO - Epoch [94/100], Average_train_loss: 0.0005
+root - INFO - Epoch [94/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [94/100], Average_test_loss: 0.7090
+root - INFO - 94,100, 0.0005459835351876277, 0.00019745811667076928, 0.7089774131930936
+root - INFO - Epoch 95 -> LR : 5e-05
+root - INFO - Epoch 95 -> LR reveal : 1.25e-05
+root - INFO - Epoch [95/100], Average_train_loss: 0.0005
+root - INFO - Epoch [95/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [95/100], Average_test_loss: 0.4498
+root - INFO - 95,100, 0.0005256721693117668, 0.00019091143302553656, 0.44982663951619134
+root - INFO - Epoch 96 -> LR : 5e-05
+root - INFO - Epoch 96 -> LR reveal : 1.25e-05
+root - INFO - Epoch [96/100], Average_train_loss: 0.0005
+root - INFO - Epoch [96/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [96/100], Average_test_loss: 0.4615
+root - INFO - 96,100, 0.0005285692143408359, 0.00019331527574531325, 0.46152292644478266
+root - INFO - Epoch 97 -> LR : 5e-05
+root - INFO - Epoch 97 -> LR reveal : 1.25e-05
+root - INFO - Epoch [97/100], Average_train_loss: 0.0006
+root - INFO - Epoch [97/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [97/100], Average_test_loss: 0.4065
+root - INFO - 97,100, 0.0005513358853932004, 0.000208182772348664, 0.40653068443555485
+root - INFO - Epoch 98 -> LR : 5e-05
+root - INFO - Epoch 98 -> LR reveal : 1.25e-05
+root - INFO - Epoch [98/100], Average_train_loss: 0.0005
+root - INFO - Epoch [98/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [98/100], Average_test_loss: 0.4944
+root - INFO - 98,100, 0.0005248494800426947, 0.00018883018632075857, 0.4943658193056496
+root - INFO - Epoch 99 -> LR : 5e-05
+root - INFO - Epoch 99 -> LR reveal : 1.25e-05
+root - INFO - Epoch [99/100], Average_train_loss: 0.0005
+root - INFO - Epoch [99/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [99/100], Average_test_loss: 0.3858
+root - INFO - 99,100, 0.0005351338554369843, 0.00019237490388822272, 0.3857591385070566
+root - INFO - Epoch 100 -> LR : 5e-05
+root - INFO - Epoch 100 -> LR reveal : 1.25e-05
+root - INFO - Epoch [100/100], Average_train_loss: 0.0005
+root - INFO - Epoch [100/100], Average_reveal_loss: 0.0002
+root - INFO - Epoch [100/100], Average_test_loss: 0.3447
+root - INFO - 100,100, 0.000525553864344661, 0.00019472091445767666, 0.34471660290713085
+root - INFO - --- 27152.389391183853 seconds ---
